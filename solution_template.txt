@@ -1,0 +1,28 @@
+"""
+Unit [Num]: [Title]
+
+Objective:
+1. [Description]
+2. [Description]
+"""
+
+"""
+Problem [Num]: [Title]
+[Description].
+"""
+
+def function(parameter):
+    pass
+
+#Test 1: 
+print(f"1. {function(parameter)}")
+#Expected output ->
+
+#Test 2: 
+print(f"2. {function(parameter)}")
+#Expected output ->
+
+"""
+UPI Method Below:
+
+"""
